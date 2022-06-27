@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "792778380498",
+    "project_id": "gamedif",
+    "storage_bucket": "gamedif.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:792778380498:android:39d11c77c8eace6014890b",
+        "android_client_info": {
+          "package_name": "com.edifice.gamedif"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "792778380498-c23bbbtned8m60anm57avusfqjl1r1rp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.edifice.gamedif",
+            "certificate_hash": "0c5ba3dd993c030f5cb2a030c857f6d8a9688fe5"
+          }
+        },
+        {
+          "client_id": "792778380498-2evif7l45tit3u05hbtlgf9ro1qqp9tc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKk9dm0BS2xe0JiC4jDLJikQXr9nx-xnA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "792778380498-2evif7l45tit3u05hbtlgf9ro1qqp9tc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
